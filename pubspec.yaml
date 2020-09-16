@@ -1,7 +1,6 @@
 name: flutter_lala_share
 description: Flutter Widgets that make it easy to share a link, email subject, text message with default behavior of device. This work with both iOS and Android.
 version: 0.0.1
-author: Bao Nguyen <quocbao1087@gmail.com>
 homepage: https://lalalife.app
 repository: https://github.com/quocbao1087/flutter_lala_share.git
 issue_tracker: https://github.com/quocbao1087/flutter_lala_share/issues
